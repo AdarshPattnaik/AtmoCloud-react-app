@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AtmoCloud-react-app/static/css/main.00f51766.css",
+    "main.js": "/AtmoCloud-react-app/static/js/main.d0ce8a61.js",
+    "static/media/bg-main-image.jpg": "/AtmoCloud-react-app/static/media/bg-main-image.877d575f6c09e10aa62b.jpg",
+    "static/media/haze-day.mp4": "/AtmoCloud-react-app/static/media/haze-day.d3e4347279ce9e73117d.mp4",
+    "static/media/welcome.mp4": "/AtmoCloud-react-app/static/media/welcome.624525da51978f56c2a9.mp4",
+    "static/media/snow-day.mp4": "/AtmoCloud-react-app/static/media/snow-day.a34f0fee2a4c4f63d986.mp4",
+    "static/media/clear-day.mp4": "/AtmoCloud-react-app/static/media/clear-day.a474e6f8dfb40910c396.mp4",
+    "static/media/default-day.mp4": "/AtmoCloud-react-app/static/media/default-day.38efb556027a9844a300.mp4",
+    "static/media/rainy-day.mp4": "/AtmoCloud-react-app/static/media/rainy-day.e358eaf91c4255f520f3.mp4",
+    "static/media/cloudy-day.mp4": "/AtmoCloud-react-app/static/media/cloudy-day.ddccfc6bdc239bb0a5c6.mp4",
+    "static/media/mist-day.mp4": "/AtmoCloud-react-app/static/media/mist-day.803226d9e85fcaead16a.mp4",
+    "static/media/smoke-day.mp4": "/AtmoCloud-react-app/static/media/smoke-day.6908838d7669484b0a88.mp4",
+    "index.html": "/AtmoCloud-react-app/index.html",
+    "main.00f51766.css.map": "/AtmoCloud-react-app/static/css/main.00f51766.css.map",
+    "main.d0ce8a61.js.map": "/AtmoCloud-react-app/static/js/main.d0ce8a61.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.00f51766.css",
+    "static/js/main.d0ce8a61.js"
+  ]
+}
