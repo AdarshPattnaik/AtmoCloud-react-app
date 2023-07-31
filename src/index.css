@@ -106,7 +106,7 @@ body {
     height: 5vw;
 }
 
-.css-18sg6k4-MuiPaper-root-MuiDrawer-paper {
+.css-18sg6k4-MuiPaper-root-MuiDrawer-paper, .css-1ciwpa8 {
     background-color: var(--q-bg-glass) !important;
     backdrop-filter: blur(15px) !important;
     border: none !important;
@@ -121,11 +121,15 @@ body {
 }
 
 /* Drawer Mobile: */
-.css-1160xiw-MuiPaper-root-MuiDrawer-paper {
+.css-1160xiw-MuiPaper-root-MuiDrawer-paper, .css-1ab2xsx {
     background-color: var(--q-bg-glass) !important;
     backdrop-filter: blur(15px);
     border: none !important;
     box-shadow: none !important;
+}
+
+.css-vubbuv {
+    color: white;
 }
 
 /* Weather Info: */
